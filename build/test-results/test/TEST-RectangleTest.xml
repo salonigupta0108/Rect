@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RectangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-06T06:30:45" hostname="gurushifu-gurushifugitp-w7jj7x99nxs" time="0.014">
+  <properties/>
+  <testcase name="shouldReturnAreaWhenLengthAndBreadthArePositive()" classname="RectangleTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
